@@ -18,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70B559232317C69000AFC01B /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		70B559242317C69000AFC01B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		70FBB0C0230C3B4E001DE8EF /* Value-Types-at-Chrono24.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Value-Types-at-Chrono24.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FBB0C3230C3B4E001DE8EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70FBB0CC230C3B4E001DE8EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,6 +46,8 @@
 		70FBB0B7230C3B4E001DE8EF = {
 			isa = PBXGroup;
 			children = (
+				70B559242317C69000AFC01B /* README.md */,
+				70B559232317C69000AFC01B /* LICENSE.md */,
 				70FBB0C2230C3B4E001DE8EF /* Sources */,
 				70FBB0D7230C3B5C001DE8EF /* Resources */,
 				70FBB0C1230C3B4E001DE8EF /* Products */,
@@ -109,7 +113,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
 				LastUpgradeCheck = 1100;
-				ORGANIZATIONNAME = "Christian Schnorr";
+				ORGANIZATIONNAME = "Chrono24 GmbH";
 				TargetAttributes = {
 					70FBB0BF230C3B4E001DE8EF = {
 						CreatedOnToolsVersion = 11.0;
